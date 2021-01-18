@@ -1,0 +1,124 @@
+<style>
+		.g
+		{
+			background-image: url('ola-app-images-21df.jpg');
+			background-size: cover;
+			color: white;
+			background-repeat: no-repeat;
+			background-position: center;
+		}
+		.container1
+		{
+			
+			margin-left:5%;
+			margin-right:3%;
+			padding-bottom: 2%; 
+			margin-bottom: 3%;
+			border:5px outset grey;
+			border-radius: 15px;
+			background-position: relative;
+			background-color: #408BF1;
+		}
+		.button2
+		{
+			color: #101113;
+			background-color: #ffc001;
+			font-weight: 700;
+			height: 50px;
+			border: none;
+			width: 100%;
+			display: block;
+			border-radius: 15px;
+			text-transform: uppercase;
+}
+		.form-header
+		{
+			font-size: 58px;
+			text-transform: uppercase;
+			font-weight: 700;
+			color: #ffc001;
+			margin: 0px;
+			text-align: center;
+	}
+	.header
+	{
+		font-size: 58px;
+		overflow: hidden;
+			font-weight: 700;
+			color: #ffc001;
+			margin: 0px;
+			text-align: center;
+	}
+	h1
+	{
+		color: white;
+		font-family:Gentona;
+		font-size:38px;
+	line-height: 38px;
+	font-weight: 600px;
+	}
+	h2
+	{
+		color: white;
+		font-family:Gentona;
+		font-size:30px;
+	line-height: 38px;
+	font-weight: 600px;
+	}
+	.example6 .navbar-brand{ 
+  background-image:url('logo.png') center / contain no-repeat;
+  width: 200px;
+}
+footer{
+  color: blue;
+}
+footer a{
+  color: white;
+}
+footer a:hover{
+  color:green;
+}
+.footer-middle{
+   background: #408BF1;
+  color: white;
+}
+.subnavigation-container{
+  background: #3d6277;
+}
+.subnavigation .nav-link{
+  color: white;
+  font-weight: bold;
+}
+.subnavigation-container{
+  text-align: center;
+}
+.subnavigation-container .navbar{
+  display: inline-block;
+  margin-bottom: -6px; 
+}
+.col-subnav a{
+  padding: 1rem 1rem;
+  color: white;
+  font-weight: bold;
+}
+.col-subnav .active{
+  border-top:5px solid orange;
+ background: white;
+  color: black;
+}
+.dropdown-container select { 
+        -moz-appearance: none; 
+        -webkit-appearance: none; 
+      }
+      .dropdown-container select::-ms-expand { 
+        display: none; 
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+</style>
